@@ -1,0 +1,30 @@
+{
+  "name": "car-rental",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^4.23.5",
+    "@types/node": "20.6.2",
+    "@types/react": "18.2.22",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.15",
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0",
+    "next": "13.4.19",
+    "postcss": "8.4.30",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.11.0",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.2.2"
+  },
+  "devDependencies": {
+    "daisyui": "^3.7.5"
+  }
+}
